@@ -1,2 +1,2 @@
-# data.analytics
-this is my first data analytics project on insaid telecomunication
+# capstone-projects
+ capstone projects
